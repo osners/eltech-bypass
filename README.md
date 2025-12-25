@@ -4,7 +4,7 @@
 
 ![Демонстрация работы](https://github.com/user-attachments/assets/61c9ded1-baa4-4160-bb8a-4521a4b360df)
 
-![Демонстрация работы](https://github.com/user-attachments/assets/61c9ded1-baa4-4160-bb8a-4521a4b360df)
+![Демонстрация работы](https://github.com/user-attachments/assets/80ed6f26-0d98-4dfe-b650-053bb1b51030)
 
 ## Функционал
 
